@@ -4,7 +4,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Link](https://gupemo.github.io/Social-links-profile/)
+- Solution URL: [Link]([https://gupemo.github.io/Social-links-profile/](https://www.frontendmentor.io/solutions/social-links-profile-V0c0q79RT_))
 - Live Site URL: [Link](https://gupemo.github.io/Social-links-profile/)
 
 
